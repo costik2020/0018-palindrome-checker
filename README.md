@@ -3,7 +3,7 @@
 
 
 - This was a project that I did in JavaScript
-- It was after I finished studying **JavaScript Algorithms and Data Structures Projects Certification** on **freeCodeCamp** coding bootcamp.
+- It was after I finished studying all the courses on **JavaScript Algorithms and Data Structures Certification** from **freeCodeCamp** coding bootcamp.
 - Generally speaking is a palindrome tester.
 - Below are the requirement that the program needed to pass **freeCodeCamp** tests
 
